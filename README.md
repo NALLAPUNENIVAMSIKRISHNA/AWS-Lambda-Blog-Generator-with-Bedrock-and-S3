@@ -113,8 +113,10 @@ The API expects a JSON body with the following format:
 - Enable **S3 event triggers** for notifications.
 
 ![image](https://github.com/user-attachments/assets/b536a273-7a1d-4405-a6ae-7c5d66ef3e0d)
-![image](https://github.com/user-attachments/assets/e1efbeba-26e9-447c-911d-f05b57a9961a)
 
+![image](https://github.com/user-attachments/assets/28a1581a-3286-4c1c-afaf-ed33bc7edace)
+
+![image](https://github.com/user-attachments/assets/e1efbeba-26e9-447c-911d-f05b57a9961a)
 
 ---
 
