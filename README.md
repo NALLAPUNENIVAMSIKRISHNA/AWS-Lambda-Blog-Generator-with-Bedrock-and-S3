@@ -1,5 +1,7 @@
 # AWS Lambda Blog Generator with Bedrock and S3
 
+Demo Video Link :- https://drive.google.com/file/d/1RyO19eW6yO9eRAXc3wTkAqIcaXWsB0MI/view?usp=sharing
+
 ## **Project Overview**
 This project is an **AWS Lambda-based serverless application** that generates blogs using **AWS Bedrock (Llama 3 AI Model) I Used** and stores them in **Amazon S3**. The application is designed to take a blog topic as input, generate AI-written content, and save it in a cloud storage bucket for easy access.
 
@@ -109,6 +111,10 @@ The API expects a JSON body with the following format:
 - Add **DynamoDB** to store metadata for generated blogs.
 - Implement **API Gateway** to expose a public API.
 - Enable **S3 event triggers** for notifications.
+
+![image](https://github.com/user-attachments/assets/b536a273-7a1d-4405-a6ae-7c5d66ef3e0d)
+![image](https://github.com/user-attachments/assets/e1efbeba-26e9-447c-911d-f05b57a9961a)
+
 
 ---
 
