@@ -77,7 +77,7 @@ Provide:
 The API expects a JSON body with the following format:
 ```json
 {
-  "blog_topic": "Benefits of Cloud Computing"
+  "blog_topic": "Benefits of Cloud Computing" Your interested topic
 }
 ```
 
@@ -85,7 +85,7 @@ The API expects a JSON body with the following format:
 ```json
 {
   "message": "Blog generation completed",
-  "s3_key": "blog-output/123456.txt"
+  "s3_key": "blog-output/123456.txt" Genertated 
 }
 ```
 
